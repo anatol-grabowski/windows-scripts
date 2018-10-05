@@ -1,0 +1,3 @@
+%USERPROFILE%\Desktop\%~n0.lnk %0 "" %~dp0 "%TOT_CORE%\totalcmd\Totalcmd.ico" "Ctrl+Alt+r"
+"%USERPROFILE%\Desktop\calc.lnk" "calc.exe" "" "" "calc.exe" "Ctrl+Alt+c"
+"%USERPROFILE%\Desktop\cmd.lnk" "cmd.exe" "" "" "cmd.exe" "Ctrl+Alt+s"

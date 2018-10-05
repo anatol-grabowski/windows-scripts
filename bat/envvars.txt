@@ -1,0 +1,43 @@
+;<varname> <value> [+] // '+' - normalize path (path has to exist)
+
+TOT_DIR            "%~dp0..\..\.." +
+TOT_TEMP_MAIN      "%TOT_DIR%"
+TOT_TEMP           "%TOT_TEMP_MAIN%\_TEMP"
+TOT_DOWB           "%TOT_TEMP_MAIN%\_1_BROWSER"
+TOT_DOW            "%TOT_TEMP_MAIN%\_2_DOWNLOADS"
+
+TOT_PROJ           "%TOT_DIR%\_3_PROJECTS"
+TOT_LIB            "%TOT_PROJ%\_2_LIBRARIES"
+TOT_APPS           "%TOT_DIR%\_4_PORTABLE"
+TOT_CORE           "%TOT_APPS%\_1_CORE_APPS"
+TOT_SCR            "%TOT_APPS%\_2_SCRIPTS"
+TOT_CONF           "%TOT_APPS%\_3_CONFIG"
+HOME               "%TOT_CONF%\_HOME"   ;linux apps keep config there
+
+
+TOT_7zip                   "%TOT_CORE%\7zip-16.0.4(x86)"
+TOT_aimp                   "%TOT_CORE%\AIMP-3.55(x86)"
+TOT_totalcmd               "%TOT_CORE%\totalcmd-8.52(x86)"
+TOT_autohotkey             "%TOT_CORE%\autohotkey-1.1.24.02(x86_64)"
+TOT_stduviewer             "%TOT_CORE%\stduViewer-1.6.300(x86)"
+TOT_vlc                    "%TOT_CORE%\vlc-2.2.4(x86)"
+TOT_irfanview              "%TOT_CORE%\irfanView-4.40(x86)"
+TOT_vim                    "%TOT_CORE%\vim-8.0.2(x86)\vim80"
+TOT_utorrent               "%TOT_CORE%\uTorrent-3.3.2(x86)"
+
+TOT_PROG                   "%TOT_APPS%\_4_PROGRAMMING"
+NPM_CONFIG_PREFIX          "%TOT_PROG%\nodejs"
+NPM_CONFIG_CACHE           "%TOT_TEMP%\npm-cache"
+;NPM_CONFIG_AUDIT           "false"
+NPM_CONFIG_PREFER_OFFLINE  "true"
+NODE_PATH                  "%NPM_CONFIG_PREFIX%\node_modules"
+NODE_REPL_HISTORY          "%NPM_CONFIG_PREFIX%\.node_repl_history"
+GRADLE_USER_HOME           "%TOT_PROG%\gradle-3.4.1\gradle_user_home\"
+ANDROID_HOME               "%TOT_PROG%\android\sdk"
+;PYTHONHOME                 "%TOT_PROG%\Python-2.7.11"
+;PYTHONPATH                 "%TOT_PROG%\Python-2.7.11\Lib"
+PYTHONHOME                 "%TOT_PROG%\Python-3.6.1"
+PYTHONPATH                 "%TOT_PROG%\Python-3.6.1\Lib"
+
+;WindowsSdkDir              "c:\Program Files (x86)\Windows Kits\8.1"
+;INCLUDE                    "c:\Program Files (x86)\Windows Kits\8.1\Include\um\"

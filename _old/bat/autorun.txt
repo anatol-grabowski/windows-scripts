@@ -1,0 +1,3 @@
+%TOT_DIR%\_4_PORTABLE\_2_SCRIPTS\bat\add_pathes.bat
+%TOT_DIR%\_4_PORTABLE\_2_SCRIPTS\bat\add_pathext.bat
+%TOT_DIR%\_4_PORTABLE\_2_SCRIPTS\bat\subst_drive.bat

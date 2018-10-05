@@ -1,0 +1,1 @@
+DisplayBrightnessConsole.exe > current_brightness.txt

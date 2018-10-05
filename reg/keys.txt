@@ -1,0 +1,33 @@
+HKEY_CURRENT_USER\Console
+HKEY_CURRENT_USER\Control Panel\Accessibility
+HKEY_CURRENT_USER\Control Panel\Appearance
+HKEY_CURRENT_USER\Control Panel\Colors
+HKEY_CURRENT_USER\Control Panel\Cursors
+HKEY_CURRENT_USER\Control Panel\Desktop
+HKEY_CURRENT_USER\Control Panel\Input Method
+HKEY_CURRENT_USER\Control Panel\International
+HKEY_CURRENT_USER\Control Panel\Keyboard
+HKEY_CURRENT_USER\Control Panel\Mouse
+HKEY_CURRENT_USER\Control Panel\Personalization
+HKEY_CURRENT_USER\Control Panel\PowerCfg
+HKEY_CURRENT_USER\Control Panel\Sound
+HKEY_CURRENT_USER\Keyboard Layout
+HKEY_CURRENT_USER\Software\7-Zip\FM
+HKEY_CURRENT_USER\Software\Microsoft\Calc
+HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main
+HKEY_CURRENT_USER\Software\Microsoft\Microsoft Management Console
+HKEY_CURRENT_USER\Software\Microsoft\Notepad
+HKEY_CURRENT_USER\Software\Microsoft\Remote Assistance
+HKEY_CURRENT_USER\Software\Microsoft\ScreenMagnifier
+HKEY_CURRENT_USER\Software\Microsoft\Windows\DWM
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Applets\Paint
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Applets\Regedit
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Applets\SysTray
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Applets\Wordpad
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Device Metadata
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\PowerCPL
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RADAR
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Sidebar
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\TaskManager
+HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion\TaskManager
+HKEY_CURRENT_USER\Software\Microsoft\winmine

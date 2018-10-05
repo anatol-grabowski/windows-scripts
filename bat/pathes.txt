@@ -1,0 +1,47 @@
+"%~dp0"
+"%TOT_SCR%\bat\app-specific"
+
+"%TOT_CORE%\vim\vim80"
+"%TOT_CORE%\AutoHotkey"
+
+"%TOT_APPS%\_5_NETWORKING\curl"
+"%TOT_APPS%\_5_NETWORKING\WiresharkPortable"
+"%TOT_APPS%\_9_OTHERS\junction"
+
+"%TOT_PROG%\tcc_and_make"
+"%TOT_PROG%\nodejs"
+"%TOT_PROG%\nodejs\bin"
+"%TOT_PROG%\mingw\bin"
+"%TOT_PROG%\mingw\msys\1.0\bin"
+"%TOT_PROG%\Git2.9.0"
+"%TOT_PROG%\Git2.9.0\cmd"
+"%TOT_PROG%\Git2.9.0\bin"
+"%TOT_PROG%\jdk1.8.0_66\bin"
+"%TOT_PROG%\jdk1.8.0_66\jre\bin"
+;"%TOT_PROG%\jdk1.7.0_67\bin"
+;"%TOT_PROG%\jdk1.7.0_67\jre\bin"
+"%TOT_PROG%\gradle-3.4.1\bin"
+"%TOT_PROG%\android"
+"%TOT_PROG%\android\sdk\platform-tools"
+"%TOT_PROG%\android\sdk\build-tools\25.0.2"
+"%TOT_PROG%\Python-2.7.11"
+"%TOT_PROG%\Python-3.6.1"
+"%TOT_PROG%\avr\WinAVR_Portable_V14_1\WinAVR-20100110\bin"
+"%TOT_PROG%\esp\xtensa-lx106-elf\bin"
+e:\_tot\_4_PORTABLE\_5_NETWORKING\aircrack-ng\bin\64bit
+
+
+"%TOT_APPS%\_9_OTHER\graphviz-2.38\bin\"
+"%TOT_PROG%\code2flow\"
+
+"C:\Program Files (x86)\MSBuild\14.0\Bin" ;for msbuild.exe
+"C:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\vcpackages" ;for vcbuild.exe
+"c:\Program Files (x86)\Microsoft Visual C++ Build Tools" ;for vcbuildtools.bat
+"%TOT_PROG%\mysql-5.7.19-win32\bin"
+"%TOT_PROG%\MongoDB-3.4.4_2008R2Plus_SSL_(64bit)\bin"
+"%TOT_PROG%\qpdf-5.1.2\bin"
+"%TOT_PROG%\nginx-1.12.1"
+"%TOT_PROG%\Redis-x64-3.2.100"
+"%TOT_PROG%\vscode\bin"
+"%TOT_PROG%\heroku\bin"
+"%TOT_PROG%\hub\bin"
